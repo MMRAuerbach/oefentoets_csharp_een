@@ -1,0 +1,12 @@
+/Users/michiel/Projects/OefentoetsPeriodeEen/bin/Debug/netcoreapp3.1/OefentoetsPeriodeEen.deps.json
+/Users/michiel/Projects/OefentoetsPeriodeEen/bin/Debug/netcoreapp3.1/OefentoetsPeriodeEen.runtimeconfig.json
+/Users/michiel/Projects/OefentoetsPeriodeEen/bin/Debug/netcoreapp3.1/OefentoetsPeriodeEen.runtimeconfig.dev.json
+/Users/michiel/Projects/OefentoetsPeriodeEen/bin/Debug/netcoreapp3.1/OefentoetsPeriodeEen.dll
+/Users/michiel/Projects/OefentoetsPeriodeEen/bin/Debug/netcoreapp3.1/OefentoetsPeriodeEen.pdb
+/Users/michiel/Projects/OefentoetsPeriodeEen/obj/Debug/netcoreapp3.1/OefentoetsPeriodeEen.csprojAssemblyReference.cache
+/Users/michiel/Projects/OefentoetsPeriodeEen/obj/Debug/netcoreapp3.1/OefentoetsPeriodeEen.AssemblyInfoInputs.cache
+/Users/michiel/Projects/OefentoetsPeriodeEen/obj/Debug/netcoreapp3.1/OefentoetsPeriodeEen.AssemblyInfo.cs
+/Users/michiel/Projects/OefentoetsPeriodeEen/obj/Debug/netcoreapp3.1/OefentoetsPeriodeEen.csproj.CoreCompileInputs.cache
+/Users/michiel/Projects/OefentoetsPeriodeEen/obj/Debug/netcoreapp3.1/OefentoetsPeriodeEen.dll
+/Users/michiel/Projects/OefentoetsPeriodeEen/obj/Debug/netcoreapp3.1/OefentoetsPeriodeEen.pdb
+/Users/michiel/Projects/OefentoetsPeriodeEen/obj/Debug/netcoreapp3.1/OefentoetsPeriodeEen.genruntimeconfig.cache
